@@ -1,0 +1,50 @@
+2021-11-28 19:51:20 WARN  Main:12 - testing warn
+2021-12-01 03:19:22 WARN  Main:16 - testing warn
+2021-12-01 03:28:54 WARN  Main:17 - testing warn
+2021-12-01 03:33:11 WARN  Main:17 - testing warn
+2021-12-01 03:39:56 WARN  Main:17 - testing warn
+2021-12-01 03:47:38 WARN  Main:17 - testing warn
+2021-12-01 03:48:05 INFO  ClientDaoImpl:93 - org.postgresql.util.PSQLException: No results were returned by the query.
+2021-12-01 03:50:08 WARN  Main:17 - testing warn
+2021-12-01 03:50:20 INFO  ClientDaoImpl:93 - org.postgresql.util.PSQLException: No results were returned by the query.
+2021-12-01 03:53:54 WARN  Main:17 - testing warn
+2021-12-01 03:57:36 WARN  Main:17 - testing warn
+2021-12-01 03:59:04 WARN  Main:17 - testing warn
+2021-12-01 04:01:08 INFO  ClientDaoImpl:93 - org.postgresql.util.PSQLException: No results were returned by the query.
+2021-12-01 04:55:29 WARN  Main:17 - testing warn
+2021-12-01 05:28:24 WARN  Main:17 - testing warn
+2021-12-01 05:31:02 WARN  Main:17 - testing warn
+2021-12-01 05:34:33 WARN  Main:17 - testing warn
+2021-12-01 07:47:57 WARN  AccountDaoImpl:51 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:49:25 WARN  AccountDaoImpl:51 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:50:23 WARN  AccountDaoImpl:51 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:51:03 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:51:31 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:53:23 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:54:22 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 07:57:07 WARN  AccountDaoImpl:53 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:01:06 WARN  AccountDaoImpl:81 - org.postgresql.util.PSQLException: No value specified for parameter 1.
+2021-12-01 08:06:45 WARN  AccountDaoImpl:53 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:07:52 WARN  AccountDaoImpl:53 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:09:36 WARN  AccountDaoImpl:53 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:15:07 WARN  AccountDaoImpl:53 - org.postgresql.util.PSQLException: Bad value for type double : testdummy
+2021-12-01 08:15:51 WARN  AccountDaoImpl:54 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:36:52 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:41:34 WARN  AccountDaoImpl:103 - org.postgresql.util.PSQLException: Bad value for type double : 2,000.00
+2021-12-01 08:42:32 WARN  AccountDaoImpl:103 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 08:42:42 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:04:26 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:06:14 INFO  AccountDaoImpl:125 - org.postgresql.util.PSQLException: ERROR: column "balance" is of type money but expression is of type double precision
+  Hint: You will need to rewrite or cast the expression.
+  Position: 39
+2021-12-01 09:06:24 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:14:25 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:21:03 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:21:14 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:22:34 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:32:09 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 09:39:07 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 10:26:17 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type int : 8,000.00
+2021-12-01 10:32:39 WARN  AccountDaoImpl:52 - org.postgresql.util.PSQLException: Bad value for type double : 8,000.00
+2021-12-01 12:05:56 INFO  AccountDaoImpl:158 - org.postgresql.util.PSQLException: ERROR: syntax error at or near ")"
+  Position: 43
